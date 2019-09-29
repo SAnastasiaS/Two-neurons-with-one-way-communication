@@ -1,0 +1,51 @@
+C:\Users\asama\Desktop\Proga_Ssharp_ChM_Zadacha_Koshi_9(4)\Runge Cutta\bin\Debug\Runge Cutta.dll
+C:\Users\asama\Desktop\Proga_Ssharp_ChM_Zadacha_Koshi_9(4)\Runge Cutta\bin\Debug\Runge Cutta.pdb
+C:\Users\asama\Desktop\Proga_Ssharp_ChM_Zadacha_Koshi_9(4)\Runge Cutta\obj\Debug\Runge Cutta.csprojResolveAssemblyReference.cache
+C:\Users\asama\Desktop\Proga_Ssharp_ChM_Zadacha_Koshi_9(4)\Runge Cutta\obj\Debug\Runge Cutta.dll
+C:\Users\asama\Desktop\Proga_Ssharp_ChM_Zadacha_Koshi_9(4)\Runge Cutta\obj\Debug\Runge Cutta.pdb
+C:\Users\asama\Desktop\Для курсача\Runge Cutta\bin\Debug\Runge Cutta.dll
+C:\Users\asama\Desktop\Для курсача\Runge Cutta\bin\Debug\Runge Cutta.pdb
+C:\Users\asama\Desktop\Для курсача\Runge Cutta\obj\Debug\Runge Cutta.csprojResolveAssemblyReference.cache
+C:\Users\asama\Desktop\Для курсача\Runge Cutta\obj\Debug\Runge Cutta.dll
+C:\Users\asama\Desktop\Для курсача\Runge Cutta\obj\Debug\Runge Cutta.pdb
+C:\Users\asama\Desktop\Курсовая\Для курсача2 — копия\Runge Cutta\obj\Debug\Runge Cutta.dll
+C:\Users\asama\Desktop\Курсовая\Для курсача2 — копия\Runge Cutta\obj\Debug\Runge Cutta.pdb
+C:\Users\asama\Desktop\Курсовая\Для курсача2 — копия\Runge Cutta\bin\Debug\Runge Cutta.dll
+C:\Users\asama\Desktop\Курсовая\Для курсача2 — копия\Runge Cutta\bin\Debug\Runge Cutta.pdb
+C:\Users\asama\Desktop\Курсовая\Для курсача2 — копия\Runge Cutta\bin\Debug\MathNet.Numerics.dll
+C:\Users\asama\Desktop\Курсовая\Для курсача2 — копия\Runge Cutta\bin\Debug\MathNet.Numerics.xml
+C:\Users\Настя\Documents\Два нейрона_упрощенная\Runge Cutta\bin\Debug\Runge Cutta.dll
+C:\Users\Настя\Documents\Два нейрона_упрощенная\Runge Cutta\bin\Debug\Runge Cutta.pdb
+C:\Users\Настя\Documents\Два нейрона_упрощенная\Runge Cutta\bin\Debug\MathNet.Numerics.dll
+C:\Users\Настя\Documents\Два нейрона_упрощенная\Runge Cutta\bin\Debug\MathNet.Numerics.xml
+C:\Users\Настя\Documents\Два нейрона_упрощенная\Runge Cutta\obj\Debug\Runge Cutta.csprojAssemblyReference.cache
+C:\Users\Настя\Documents\Два нейрона_упрощенная\Runge Cutta\obj\Debug\Runge Cutta.csproj.CoreCompileInputs.cache
+C:\Users\Настя\Documents\Два нейрона_упрощенная\Runge Cutta\obj\Debug\Runge Cutta.csproj.CopyComplete
+C:\Users\Настя\Documents\Два нейрона_упрощенная\Runge Cutta\obj\Debug\Runge Cutta.dll
+C:\Users\Настя\Documents\Два нейрона_упрощенная\Runge Cutta\obj\Debug\Runge Cutta.pdb
+C:\Users\Настя\Documents\Два нейрона_упрощенная_версия_1_1\Runge Cutta\bin\Debug\Runge Cutta.dll
+C:\Users\Настя\Documents\Два нейрона_упрощенная_версия_1_1\Runge Cutta\bin\Debug\Runge Cutta.pdb
+C:\Users\Настя\Documents\Два нейрона_упрощенная_версия_1_1\Runge Cutta\bin\Debug\MathNet.Numerics.dll
+C:\Users\Настя\Documents\Два нейрона_упрощенная_версия_1_1\Runge Cutta\bin\Debug\MathNet.Numerics.xml
+C:\Users\Настя\Documents\Два нейрона_упрощенная_версия_1_1\Runge Cutta\obj\Debug\Runge Cutta.csprojAssemblyReference.cache
+C:\Users\Настя\Documents\Два нейрона_упрощенная_версия_1_1\Runge Cutta\obj\Debug\Runge Cutta.csproj.CoreCompileInputs.cache
+C:\Users\Настя\Documents\Два нейрона_упрощенная_версия_1_1\Runge Cutta\obj\Debug\Runge Cutta.csproj.CopyComplete
+C:\Users\Настя\Documents\Два нейрона_упрощенная_версия_1_1\Runge Cutta\obj\Debug\Runge Cutta.dll
+C:\Users\Настя\Documents\Два нейрона_упрощенная_версия_1_1\Runge Cutta\obj\Debug\Runge Cutta.pdb
+C:\Users\Настя\Documents\Два нейрона_упрощенная_версия_1_5\Runge Cutta\bin\Debug\Runge Cutta.dll
+C:\Users\Настя\Documents\Два нейрона_упрощенная_версия_1_5\Runge Cutta\bin\Debug\Runge Cutta.pdb
+C:\Users\Настя\Documents\Два нейрона_упрощенная_версия_1_5\Runge Cutta\bin\Debug\MathNet.Numerics.dll
+C:\Users\Настя\Documents\Два нейрона_упрощенная_версия_1_5\Runge Cutta\bin\Debug\MathNet.Numerics.xml
+C:\Users\Настя\Documents\Два нейрона_упрощенная_версия_1_5\Runge Cutta\obj\Debug\Runge Cutta.csproj.CoreCompileInputs.cache
+C:\Users\Настя\Documents\Два нейрона_упрощенная_версия_1_5\Runge Cutta\obj\Debug\Runge Cutta.csproj.CopyComplete
+C:\Users\Настя\Documents\Два нейрона_упрощенная_версия_1_5\Runge Cutta\obj\Debug\Runge Cutta.dll
+C:\Users\Настя\Documents\Два нейрона_упрощенная_версия_1_5\Runge Cutta\obj\Debug\Runge Cutta.pdb
+C:\Users\Настя\Desktop\Два нейрона_упрощенная_версия_1_5 — копия — копия\Runge Cutta\bin\Debug\Runge Cutta.dll
+C:\Users\Настя\Desktop\Два нейрона_упрощенная_версия_1_5 — копия — копия\Runge Cutta\bin\Debug\Runge Cutta.pdb
+C:\Users\Настя\Desktop\Два нейрона_упрощенная_версия_1_5 — копия — копия\Runge Cutta\bin\Debug\MathNet.Numerics.dll
+C:\Users\Настя\Desktop\Два нейрона_упрощенная_версия_1_5 — копия — копия\Runge Cutta\bin\Debug\MathNet.Numerics.xml
+C:\Users\Настя\Desktop\Два нейрона_упрощенная_версия_1_5 — копия — копия\Runge Cutta\obj\Debug\Runge Cutta.csprojAssemblyReference.cache
+C:\Users\Настя\Desktop\Два нейрона_упрощенная_версия_1_5 — копия — копия\Runge Cutta\obj\Debug\Runge Cutta.csproj.CoreCompileInputs.cache
+C:\Users\Настя\Desktop\Два нейрона_упрощенная_версия_1_5 — копия — копия\Runge Cutta\obj\Debug\Runge Cutta.csproj.CopyComplete
+C:\Users\Настя\Desktop\Два нейрона_упрощенная_версия_1_5 — копия — копия\Runge Cutta\obj\Debug\Runge Cutta.dll
+C:\Users\Настя\Desktop\Два нейрона_упрощенная_версия_1_5 — копия — копия\Runge Cutta\obj\Debug\Runge Cutta.pdb
